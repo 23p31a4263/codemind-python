@@ -1,0 +1,5 @@
+a=int(input())
+area=(3.14*a*a)
+p=(2*3.14*a)
+print(f"{area:.2f}")
+print(f"{p:.2f}")
